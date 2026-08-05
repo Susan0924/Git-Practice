@@ -1,4 +1,8 @@
 Git practice
 
+<<<<<<< HEAD
 
 Welcome to git practice
+=======
+This id feature branch
+>>>>>>> feature-x
